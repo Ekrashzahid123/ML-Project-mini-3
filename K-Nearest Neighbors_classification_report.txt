@@ -1,0 +1,9 @@
+K-Nearest Neighbors - Classification Report
+              precision    recall  f1-score   support
+
+           0       0.93      0.94      0.94      8763
+           1       0.79      0.74      0.76      2487
+
+    accuracy                           0.90     11250
+   macro avg       0.86      0.84      0.85     11250
+weighted avg       0.90      0.90      0.90     11250
